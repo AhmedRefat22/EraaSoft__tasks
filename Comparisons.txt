@@ -1,0 +1,29 @@
+1-b vs strong :- 
+                   i- <b></b> : The bold tag or <b> is also one of the formatting elements of HTML. The text written under <b> tag makes the text bold presentationally to draw attention.
+                   ii-<strong></strong> : The strong tag is one of the element of HTML used in formatting HTML texts. It is used to show importance of the text by making it bold or highlighting it semantically.
+                   *سيبك من ال اتكتب دا بقاا تعالى افهمك براحه عندك اول حاجه <b></b> دا عباره عن Tag ضمن ال Tags داخل اللغه بيعمل اى دا بقاا 
+                   كل ال بيعمله انه بيكبر الكلمه وملهاش اى غرض تانى غير التكبير بمعنى تانى انه يلفت انتباه مش اكتر
+
+                   **<strong></strong> نفس الحوار بردو بس دا بيكبر خط الكلام لغرض معين ليدل على الاهميه للكلام
+
+
+
+2- i vs em :-
+                   i-<i></i> :  <i> tag It is one of the element of HTML which is used in formatting HTML texts. It is used to define a text in technical term, alternative mood or voice, a thought, etc. 
+                   ii-<em></em> :  <em> tag It is also one of the element of HTML used in formatting texts. It is used to define emphasized text or statements. 
+                   *تعالى بردو هنا افهمك كدا بالهداوه يحبيب اخووك الحوار دا كله داير على انك تخلى الخط مائل بس فيه فرق بسيط زى ال كان فوق كدا ال هو الغرض من انى اخلى الكلمه مائله كدا عندك بقاا :-
+                   <i></i> بيخلى الخط مائل للدلع كدا بس للشكل الجمالى مش اكتر 
+                   <em></em> بيخلى الخط مائل لغرض معين it's important يعنى زى ما بيقولوا
+
+
+3- audio in html :- شكل الكود بتاعه بيكون كدا
+<audio controls>
+  <source src="horse.ogg" type="audio/ogg">
+  <source src="horse.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+
+بس عندنا كذا attribute كدا بنستخدمهم داخل ال controls منهم 
+1- Autoplay : بيشغل المقطع الصوتى اول ما بتفتح الموقع الخاص بيك
+2- Autoplay muted : بيشغل المقطع الصوتى اول ما بتفتح الموقع الخاص بيك بس من غير صوت
+3- Media Types : انواع الصوت ال هنشغل بيه المقطع
